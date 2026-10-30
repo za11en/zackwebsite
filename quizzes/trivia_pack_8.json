@@ -1,0 +1,27 @@
+{
+    "id": "general_knowledge_8",
+    "title": "General Knowledge: Pack 8",
+    "description": "20 diverse trivia questions across chemistry, world history, literature, food, and pop culture.",
+    "questions": [
+        {"id": 1, "q": "Which city is located on two continents: Europe and Asia?", "options": {"A": "Cairo", "B": "Athens", "C": "Istanbul", "D": "Moscow"}, "answer": "C"},
+        {"id": 2, "q": "Which Canadian artist released the hit song 'Blinding Lights'?", "options": {"A": "Drake", "B": "Justin Bieber", "C": "The Weeknd", "D": "Shawn Mendes"}, "answer": "C"},
+        {"id": 3, "q": "What is the deepest oceanic trench on Earth?", "options": {"A": "Mariana Trench", "B": "Java Trench", "C": "Tonga Trench", "D": "Puerto Rico Trench"}, "answer": "A"},
+        {"id": 4, "q": "In version control, which distributed system was created by Linus Torvalds in 2005?", "options": {"A": "CVS", "B": "Subversion", "C": "Mercurial", "D": "Git"}, "answer": "D"},
+        {"id": 5, "q": "Which gemstone is the traditional birthstone for the month of May?", "options": {"A": "Diamond", "B": "Emerald", "C": "Sapphire", "D": "Ruby"}, "answer": "B"},
+        {"id": 6, "q": "What spice is derived from the flower of Crocus sativus and is the most expensive spice by weight?", "options": {"A": "Saffron", "B": "Vanilla", "C": "Turmeric", "D": "Cardamom"}, "answer": "A"},
+        {"id": 7, "q": "Which Seattle grunge band was fronted by Kurt Cobain?", "options": {"A": "Pearl Jam", "B": "Soundgarden", "C": "Nirvana", "D": "Alice in Chains"}, "answer": "C"},
+        {"id": 8, "q": "Which animal appears on the luxury car logo for Porsche?", "options": {"A": "Horse", "B": "Jaguar", "C": "Bull", "D": "Lion"}, "answer": "A"},
+        {"id": 9, "q": "What is the traditional line count of a standard Shakespearean sonnet?", "options": {"A": "12", "B": "16", "C": "14", "D": "10"}, "answer": "C"},
+        {"id": 10, "q": "What type of rock is formed from cooled magma or lava?", "options": {"A": "Sedimentary", "B": "Igneous", "C": "Metamorphic", "D": "Limestone"}, "answer": "B"},
+        {"id": 11, "q": "Who was the last active ruler of the Ptolemaic Kingdom of Egypt?", "options": {"A": "Nefertiti", "B": "Hatshepsut", "C": "Cleopatra VII", "D": "Tutankhamun"}, "answer": "C"},
+        {"id": 12, "q": "In Canadian football (CFL), how many downs does a team have to gain 10 yards?", "options": {"A": "3", "B": "2", "C": "5", "D": "4"}, "answer": "A"},
+        {"id": 13, "q": "Which English king signed the Magna Carta in 1215?", "options": {"A": "King John", "B": "King Richard I", "C": "King Edward I", "D": "King Henry III"}, "answer": "A"},
+        {"id": 14, "q": "In golf, what is the term for a score of one stroke under par on a hole?", "options": {"A": "Eagle", "B": "Albatross", "C": "Birdie", "D": "Bogey"}, "answer": "C"},
+        {"id": 15, "q": "Who is the author of 'The Lord of the Rings' trilogy?", "options": {"A": "George R.R. Martin", "B": "C.S. Lewis", "C": "J.R.R. Tolkien", "D": "Roald Dahl"}, "answer": "C"},
+        {"id": 16, "q": "Which blood vessels carry oxygenated blood away from the heart to the rest of the body?", "options": {"A": "Venules", "B": "Arteries", "C": "Veins", "D": "Capillaries"}, "answer": "B"},
+        {"id": 17, "q": "What is the name of the fictional coffee shop where the main characters gather in the sitcom 'Friends'?", "options": {"A": "MacLaren's Pub", "B": "Central Perk", "C": "Cafe Nervosa", "D": "Monk's Cafe"}, "answer": "B"},
+        {"id": 18, "q": "Which company originally founded and developed the Android operating system before Google acquired it in 2005?", "options": {"A": "Android Inc.", "B": "Palm, Inc.", "C": "Symbian Ltd.", "D": "Danger, Inc."}, "answer": "A"},
+        {"id": 19, "q": "Which vitamin is abundant in citrus fruits and historically prevented scurvy among sailors?", "options": {"A": "Vitamin A", "B": "Vitamin E", "C": "Vitamin C", "D": "Vitamin B12"}, "answer": "C"},
+        {"id": 20, "q": "In 'Game of Thrones', what is the motto of House Stark?", "options": {"A": "Hear Me Roar", "B": "Fire and Blood", "C": "Ours Is the Fury", "D": "Winter Is Coming"}, "answer": "D"}
+    ]
+}

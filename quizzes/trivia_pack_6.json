@@ -1,0 +1,27 @@
+{
+    "id": "general_knowledge_6",
+    "title": "General Knowledge: Pack 6",
+    "description": "20 varied trivia questions spanning pop music, culinary arts, ancient history, and astronomy.",
+    "questions": [
+        {"id": 1, "q": "Which open-source smart home connectivity standard is developed by the Connectivity Standards Alliance?", "options": {"A": "Z-Wave", "B": "Bluetooth Classic", "C": "Matter", "D": "X10"}, "answer": "C"},
+        {"id": 2, "q": "Which soft Italian cheese is the primary cheese used in a classic tiramisu?", "options": {"A": "Ricotta", "B": "Mascarpone", "C": "Mozzarella", "D": "Gorgonzola"}, "answer": "B"},
+        {"id": 3, "q": "In Roman mythology, who is the goddess of love and beauty, equivalent to the Greek Aphrodite?", "options": {"A": "Diana", "B": "Minerva", "C": "Juno", "D": "Venus"}, "answer": "D"},
+        {"id": 4, "q": "Which planet in our solar system has the most confirmed moons?", "options": {"A": "Saturn", "B": "Neptune", "C": "Uranus", "D": "Jupiter"}, "answer": "A"},
+        {"id": 5, "q": "Which actor portrayed Tony Stark (Iron Man) in the Marvel Cinematic Universe?", "options": {"A": "Chris Hemsworth", "B": "Robert Downey Jr.", "C": "Chris Evans", "D": "Mark Ruffalo"}, "answer": "B"},
+        {"id": 6, "q": "Which album by Michael Jackson remains the best-selling album of all time worldwide?", "options": {"A": "Off the Wall", "B": "Dangerous", "C": "Thriller", "D": "Bad"}, "answer": "C"},
+        {"id": 7, "q": "Who is known as 'The Great One' in professional ice hockey?", "options": {"A": "Sidney Crosby", "B": "Wayne Gretzky", "C": "Mario Lemieux", "D": "Gordie Howe"}, "answer": "B"},
+        {"id": 8, "q": "Which African country has the largest population?", "options": {"A": "Ethiopia", "B": "South Africa", "C": "Egypt", "D": "Nigeria"}, "answer": "D"},
+        {"id": 9, "q": "Which vitamin is primarily produced when human skin is exposed to sunlight?", "options": {"A": "Vitamin C", "B": "Vitamin K", "C": "Vitamin D", "D": "Vitamin A"}, "answer": "C"},
+        {"id": 10, "q": "Which Canadian province is the only officially bilingual province?", "options": {"A": "Quebec", "B": "New Brunswick", "C": "Ontario", "D": "Manitoba"}, "answer": "B"},
+        {"id": 11, "q": "What is the official currency of Japan?", "options": {"A": "Yuan", "B": "Yen", "C": "Won", "D": "Ringgit"}, "answer": "B"},
+        {"id": 12, "q": "How many bits make up a single byte?", "options": {"A": "32", "B": "4", "C": "8", "D": "16"}, "answer": "C"},
+        {"id": 13, "q": "Which British singer released the albums '19', '21', '25', and '30'?", "options": {"A": "Adele", "B": "Florence Welch", "C": "Amy Winehouse", "D": "Dua Lipa"}, "answer": "A"},
+        {"id": 14, "q": "Which meat is used in a traditional shepherd's pie (as opposed to a cottage pie)?", "options": {"A": "Pork", "B": "Beef", "C": "Lamb", "D": "Venison"}, "answer": "C"},
+        {"id": 15, "q": "Which director helmed 'The Dark Knight', 'Inception', and 'Oppenheimer'?", "options": {"A": "Quentin Tarantino", "B": "Christopher Nolan", "C": "David Fincher", "D": "Denis Villeneuve"}, "answer": "B"},
+        {"id": 16, "q": "Which fictional detective lives at 221B Baker Street in London?", "options": {"A": "Sam Spade", "B": "Philip Marlowe", "C": "Sherlock Holmes", "D": "Hercule Poirot"}, "answer": "C"},
+        {"id": 17, "q": "What does the Roman numeral 'C' represent?", "options": {"A": "100", "B": "1000", "C": "500", "D": "50"}, "answer": "A"},
+        {"id": 18, "q": "Which Roman city was buried by the eruption of Mount Vesuvius in 79 AD?", "options": {"A": "Ostia", "B": "Ravenna", "C": "Syracuse", "D": "Pompeii"}, "answer": "D"},
+        {"id": 19, "q": "Which studio originally developed the sandbox video game 'Minecraft' before being acquired by Microsoft?", "options": {"A": "Roblox Corporation", "B": "Epic Games", "C": "Valve", "D": "Mojang"}, "answer": "D"},
+        {"id": 20, "q": "In which year did Canada officially become a confederation?", "options": {"A": "1901", "B": "1841", "C": "1812", "D": "1867"}, "answer": "D"}
+    ]
+}

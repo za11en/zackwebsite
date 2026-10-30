@@ -1,0 +1,27 @@
+{
+    "id": "general_knowledge_5",
+    "title": "General Knowledge: Pack 5",
+    "description": "20 cross-topic questions testing knowledge of world capitals, physics, classic books, and games.",
+    "questions": [
+        {"id": 1, "q": "The assassination of which Austro-Hungarian archduke sparked World War I?", "options": {"A": "Franz Joseph", "B": "Karl I", "C": "Franz Ferdinand", "D": "Maximilian"}, "answer": "C"},
+        {"id": 2, "q": "How many players from one team are on the pitch at the start of a standard soccer (association football) match?", "options": {"A": "10", "B": "9", "C": "11", "D": "12"}, "answer": "C"},
+        {"id": 3, "q": "What are the three core ingredients of a classic Canadian poutine?", "options": {"A": "Fries, cheese curds, and brown gravy", "B": "Fries, cheddar, and ketchup", "C": "Tater tots, mozzarella, and ranch", "D": "Baked potato, sour cream, and bacon"}, "answer": "A"},
+        {"id": 4, "q": "Which famous ship sank on its maiden voyage in April 1912?", "options": {"A": "RMS Lusitania", "B": "RMS Titanic", "C": "SS Andrea Doria", "D": "HMHS Britannic"}, "answer": "B"},
+        {"id": 5, "q": "Which fictional paper company is the workplace setting for the US version of 'The Office'?", "options": {"A": "Dunder Mifflin", "B": "Sterling Cooper", "C": "Initech", "D": "Wernham Hogg"}, "answer": "A"},
+        {"id": 6, "q": "Who was the lead vocalist of the rock band Queen?", "options": {"A": "Robert Plant", "B": "David Bowie", "C": "Freddie Mercury", "D": "Mick Jagger"}, "answer": "C"},
+        {"id": 7, "q": "What is the largest hot desert in the world?", "options": {"A": "Gobi Desert", "B": "Sahara Desert", "C": "Kalahari Desert", "D": "Arabian Desert"}, "answer": "B"},
+        {"id": 8, "q": "How many rings make up the official Olympic symbol?", "options": {"A": "6", "B": "4", "C": "5", "D": "7"}, "answer": "C"},
+        {"id": 9, "q": "Which programming language was created by Guido van Rossum and released in 1991?", "options": {"A": "Perl", "B": "Ruby", "C": "Python", "D": "Java"}, "answer": "C"},
+        {"id": 10, "q": "Which fruit is the primary ingredient in guacamole?", "options": {"A": "Mango", "B": "Tomatillo", "C": "Lime", "D": "Avocado"}, "answer": "D"},
+        {"id": 11, "q": "Which actress won an Academy Award for Best Actress for her role in 'La La Land'?", "options": {"A": "Emma Stone", "B": "Margot Robbie", "C": "Jennifer Lawrence", "D": "Natalie Portman"}, "answer": "A"},
+        {"id": 12, "q": "How many strings does a standard violin have?", "options": {"A": "4", "B": "6", "C": "5", "D": "7"}, "answer": "A"},
+        {"id": 13, "q": "In Greek mythology, which hero had a vulnerable heel after being dipped in the River Styx?", "options": {"A": "Perseus", "B": "Achilles", "C": "Hercules", "D": "Odysseus"}, "answer": "B"},
+        {"id": 14, "q": "What is the chemical symbol for gold?", "options": {"A": "Gd", "B": "Au", "C": "Ag", "D": "Go"}, "answer": "B"},
+        {"id": 15, "q": "Which 19th-century mathematician is celebrated as the world's first computer programmer for her work on Charles Babbage's Analytical Engine?", "options": {"A": "Hedy Lamarr", "B": "Grace Hopper", "C": "Katherine Johnson", "D": "Ada Lovelace"}, "answer": "D"},
+        {"id": 16, "q": "What is the name of the wizard school in J.K. Rowling's 'Harry Potter' series?", "options": {"A": "Hogwarts", "B": "Ilvermorny", "C": "Beauxbatons", "D": "Durmstrang"}, "answer": "A"},
+        {"id": 17, "q": "What is the most abundant gas in Earth's atmosphere?", "options": {"A": "Carbon dioxide", "B": "Oxygen", "C": "Nitrogen", "D": "Argon"}, "answer": "C"},
+        {"id": 18, "q": "How many sides does a standard heptagon have?", "options": {"A": "9", "B": "8", "C": "6", "D": "7"}, "answer": "D"},
+        {"id": 19, "q": "Who led the Indian independence movement through nonviolent civil disobedience?", "options": {"A": "Sardar Patel", "B": "Jawaharlal Nehru", "C": "Subhas Chandra Bose", "D": "Mahatma Gandhi"}, "answer": "D"},
+        {"id": 20, "q": "Mount Everest is located in which mountain range?", "options": {"A": "Himalayas", "B": "Rockies", "C": "Andes", "D": "Alps"}, "answer": "A"}
+    ]
+}

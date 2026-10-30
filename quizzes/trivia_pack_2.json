@@ -1,0 +1,27 @@
+{
+    "id": "general_knowledge_2",
+    "title": "General Knowledge: Pack 2",
+    "description": "20 mixed trivia questions covering movies, literature, science, sports, and world knowledge.",
+    "questions": [
+        {"id": 1, "q": "Which zodiac sign is represented by a pair of scales?", "options": {"A": "Virgo", "B": "Aquarius", "C": "Gemini", "D": "Libra"}, "answer": "D"},
+        {"id": 2, "q": "What is the capital of Brazil?", "options": {"A": "Salvador", "B": "Sao Paulo", "C": "Rio de Janeiro", "D": "Brasilia"}, "answer": "D"},
+        {"id": 3, "q": "What is the study of fungi called?", "options": {"A": "Virology", "B": "Botany", "C": "Mycology", "D": "Entomology"}, "answer": "C"},
+        {"id": 4, "q": "Which epic poem attributed to Homer tells the story of Odysseus's ten-year journey home after the Trojan War?", "options": {"A": "The Odyssey", "B": "The Iliad", "C": "Metamorphoses", "D": "The Aeneid"}, "answer": "A"},
+        {"id": 5, "q": "In which city did the Caesar salad originate in the 1920s?", "options": {"A": "Paris, France", "B": "New York City, USA", "C": "Tijuana, Mexico", "D": "Rome, Italy"}, "answer": "C"},
+        {"id": 6, "q": "Which US state has the longest coastline?", "options": {"A": "Alaska", "B": "Florida", "C": "California", "D": "Hawaii"}, "answer": "A"},
+        {"id": 7, "q": "Who became the first musician to be awarded the Nobel Prize in Literature in 2016?", "options": {"A": "Leonard Cohen", "B": "Bob Dylan", "C": "Bruce Springsteen", "D": "Paul Simon"}, "answer": "B"},
+        {"id": 8, "q": "What was the name of the ship that brought the Pilgrims to North America in 1620?", "options": {"A": "Mayflower", "B": "Beagle", "C": "Endeavour", "D": "Santa Maria"}, "answer": "A"},
+        {"id": 9, "q": "Which music festival famously took place on a dairy farm in Bethel, New York, in August 1969?", "options": {"A": "Lollapalooza", "B": "Coachella", "C": "Glastonbury", "D": "Woodstock"}, "answer": "D"},
+        {"id": 10, "q": "Which 1972 crime film directed by Francis Ford Coppola stars Marlon Brando as Vito Corleone?", "options": {"A": "Scarface", "B": "Casino", "C": "The Godfather", "D": "Goodfellas"}, "answer": "C"},
+        {"id": 11, "q": "From which plant is traditional tequila distilled?", "options": {"A": "Blue agave", "B": "Corn", "C": "Juniper", "D": "Sugarcane"}, "answer": "A"},
+        {"id": 12, "q": "In the NATO phonetic alphabet, what word represents the letter 'M'?", "options": {"A": "Major", "B": "Mike", "C": "Metro", "D": "Mother"}, "answer": "B"},
+        {"id": 13, "q": "In chess, which piece is only allowed to move diagonally?", "options": {"A": "Knight", "B": "Rook", "C": "Queen", "D": "Bishop"}, "answer": "D"},
+        {"id": 14, "q": "What is the standard loopback IPv4 address used to refer to the local machine ('localhost')?", "options": {"A": "255.255.255.0", "B": "192.168.1.1", "C": "127.0.0.1", "D": "10.0.0.1"}, "answer": "C"},
+        {"id": 15, "q": "Which subatomic particle carries a negative electrical charge?", "options": {"A": "Electron", "B": "Proton", "C": "Positron", "D": "Neutron"}, "answer": "A"},
+        {"id": 16, "q": "Which treaty formally ended World War I in 1919?", "options": {"A": "Treaty of Ghent", "B": "Treaty of Paris", "C": "Treaty of Tordesillas", "D": "Treaty of Versailles"}, "answer": "D"},
+        {"id": 17, "q": "What is the official distance of a full marathon in kilometers?", "options": {"A": "42.195 km", "B": "38.5 km", "C": "45.0 km", "D": "40.0 km"}, "answer": "A"},
+        {"id": 18, "q": "What does the acronym 'CPU' stand for in computing?", "options": {"A": "Central Process Unit", "B": "Core Processing Utility", "C": "Computer Personal Unit", "D": "Central Processing Unit"}, "answer": "D"},
+        {"id": 19, "q": "Which author wrote the dystopian novel '1984'?", "options": {"A": "H.G. Wells", "B": "Aldous Huxley", "C": "Ray Bradbury", "D": "George Orwell"}, "answer": "D"},
+        {"id": 20, "q": "Who played the character of Jack Dawson in the 1997 film 'Titanic'?", "options": {"A": "Leonardo DiCaprio", "B": "Matt Damon", "C": "Brad Pitt", "D": "Johnny Depp"}, "answer": "A"}
+    ]
+}

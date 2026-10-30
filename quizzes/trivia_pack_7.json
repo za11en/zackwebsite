@@ -1,0 +1,27 @@
+{
+    "id": "general_knowledge_7",
+    "title": "General Knowledge: Pack 7",
+    "description": "20 mixed-bag questions covering sports records, networking, famous landmarks, and television.",
+    "questions": [
+        {"id": 1, "q": "Which ancient wonder of the world was located in Alexandria, Egypt?", "options": {"A": "Temple of Artemis", "B": "Lighthouse of Alexandria", "C": "Colossus of Rhodes", "D": "Hanging Gardens"}, "answer": "B"},
+        {"id": 2, "q": "How many dots appear in total on a standard six-sided die?", "options": {"A": "18", "B": "21", "C": "24", "D": "20"}, "answer": "B"},
+        {"id": 3, "q": "Which color is located at the very top of a standard vertical traffic light?", "options": {"A": "Red", "B": "Yellow", "C": "Green", "D": "Blue"}, "answer": "A"},
+        {"id": 4, "q": "Which French wine region is world-famous for producing sparkling wine under strict appellation rules?", "options": {"A": "Champagne", "B": "Burgundy", "C": "Bordeaux", "D": "Loire Valley"}, "answer": "A"},
+        {"id": 5, "q": "Which 2019 South Korean film became the first non-English language movie to win the Academy Award for Best Picture?", "options": {"A": "Oldboy", "B": "Train to Busan", "C": "Minari", "D": "Parasite"}, "answer": "D"},
+        {"id": 6, "q": "Who is widely credited with inventing the World Wide Web in 1989 while working at CERN?", "options": {"A": "Vint Cerf", "B": "Alan Turing", "C": "Tim Berners-Lee", "D": "Marc Andreessen"}, "answer": "C"},
+        {"id": 7, "q": "Which scale is used to measure the pungency or heat level of chili peppers?", "options": {"A": "Richter scale", "B": "Beaufort scale", "C": "Brix scale", "D": "Scoville scale"}, "answer": "D"},
+        {"id": 8, "q": "What is the largest island in the world (excluding continents)?", "options": {"A": "Borneo", "B": "New Guinea", "C": "Madagascar", "D": "Greenland"}, "answer": "D"},
+        {"id": 9, "q": "Which American author wrote 'The Great Gatsby'?", "options": {"A": "F. Scott Fitzgerald", "B": "Ernest Hemingway", "C": "William Faulkner", "D": "John Steinbeck"}, "answer": "A"},
+        {"id": 10, "q": "Which video game franchise features the fictional region of Hyrule and the hero Link?", "options": {"A": "Final Fantasy", "B": "The Legend of Zelda", "C": "The Elder Scrolls", "D": "Dragon Quest"}, "answer": "B"},
+        {"id": 11, "q": "What instrument was jazz legend Miles Davis most famous for playing?", "options": {"A": "Trumpet", "B": "Piano", "C": "Saxophone", "D": "Double bass"}, "answer": "A"},
+        {"id": 12, "q": "Who directed the 1993 blockbuster film 'Jurassic Park'?", "options": {"A": "Ridley Scott", "B": "James Cameron", "C": "Steven Spielberg", "D": "George Lucas"}, "answer": "C"},
+        {"id": 13, "q": "Which modern programming language developed by JetBrains is Google's preferred language for Android app development?", "options": {"A": "Swift", "B": "Rust", "C": "Kotlin", "D": "Dart"}, "answer": "C"},
+        {"id": 14, "q": "What is the pH value of pure water at 25 degrees Celsius?", "options": {"A": "7", "B": "5", "C": "9", "D": "14"}, "answer": "A"},
+        {"id": 15, "q": "Which European river flows through Vienna, Budapest, and Belgrade?", "options": {"A": "Rhine", "B": "Seine", "C": "Elbe", "D": "Danube"}, "answer": "D"},
+        {"id": 16, "q": "Who was the first person to walk on the Moon?", "options": {"A": "Neil Armstrong", "B": "Buzz Aldrin", "C": "Michael Collins", "D": "Yuri Gagarin"}, "answer": "A"},
+        {"id": 17, "q": "Which swimmer has won the most Olympic gold medals in history with 23 golds?", "options": {"A": "Michael Phelps", "B": "Ian Thorpe", "C": "Mark Spitz", "D": "Ryan Lochte"}, "answer": "A"},
+        {"id": 18, "q": "Which pop star's fanbase is popularly known as the 'Swifties'?", "options": {"A": "Billie Eilish", "B": "Ariana Grande", "C": "Katy Perry", "D": "Taylor Swift"}, "answer": "D"},
+        {"id": 19, "q": "What is the opening line of Herman Melville's novel 'Moby-Dick'?", "options": {"A": "In a hole in the ground", "B": "Call me Ishmael", "C": "It was the best of times", "D": "All happy families are alike"}, "answer": "B"},
+        {"id": 20, "q": "Which organelle is commonly referred to as the powerhouse of the cell?", "options": {"A": "Ribosome", "B": "Golgi apparatus", "C": "Nucleus", "D": "Mitochondrion"}, "answer": "D"}
+    ]
+}

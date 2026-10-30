@@ -1,0 +1,12 @@
+{
+    "id": "general_knowledge_1",
+    "title": "General Knowledge: Pack 1",
+    "description": "20 mixed questions spanning history, science, and pop culture.",
+    "questions": [
+        {"id": 1, "q": "Which planet is known as the 'Red Planet'?", "options": {"A": "Venus", "B": "Jupiter", "C": "Mars", "D": "Saturn"}, "answer": "C"},
+        {"id": 2, "q": "In Texas Hold'em, what is the best possible starting hand?", "options": {"A": "Ace-King suited", "B": "Pocket Kings", "C": "Pocket Aces", "D": "Pocket Queens"}, "answer": "C"},
+        {"id": 3, "q": "What is the rarest blood type in the human body?", "options": {"A": "O-negative", "B": "AB-negative", "C": "B-negative", "D": "A-positive"}, "answer": "B"},
+        {"id": 4, "q": "Which element has the chemical symbol 'O'?", "options": {"A": "Osmium", "B": "Oxygen", "C": "Gold", "D": "Oganesson"}, "answer": "B"},
+        {"id": 5, "q": "What is the capital of Canada?", "options": {"A": "Toronto", "B": "Vancouver", "C": "Montreal", "D": "Ottawa"}, "answer": "D"}
+    ]
+}

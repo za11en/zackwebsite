@@ -1,0 +1,27 @@
+{
+    "id": "general_knowledge_3",
+    "title": "General Knowledge: Pack 3",
+    "description": "20 eclectic multiple-choice questions across technology, music, food, history, and nature.",
+    "questions": [
+        {"id": 1, "q": "Which Canadian author wrote the dystopian novel 'The Handmaid's Tale'?", "options": {"A": "Margaret Atwood", "B": "Lucy Maud Montgomery", "C": "Carol Shields", "D": "Alice Munro"}, "answer": "A"},
+        {"id": 2, "q": "In the classic arcade game 'Pac-Man', which of the following is NOT one of the four original ghosts' English nicknames?", "options": {"A": "Clyde", "B": "Speedy", "C": "Pinky", "D": "Blinky"}, "answer": "B"},
+        {"id": 3, "q": "In networking, what does 'DNS' stand for?", "options": {"A": "Dynamic Node Server", "B": "Data Network Standard", "C": "Digital Network Service", "D": "Domain Name System"}, "answer": "D"},
+        {"id": 4, "q": "Which South American country is landlocked?", "options": {"A": "Colombia", "B": "Ecuador", "C": "Bolivia", "D": "Uruguay"}, "answer": "C"},
+        {"id": 5, "q": "Which gas do plants absorb from the atmosphere during photosynthesis?", "options": {"A": "Hydrogen", "B": "Carbon dioxide", "C": "Oxygen", "D": "Methane"}, "answer": "B"},
+        {"id": 6, "q": "What is the name of the bounty hunter who serves as the titular protagonist in the first live-action 'Star Wars' Disney+ series?", "options": {"A": "Cassian Andor", "B": "Cad Bane", "C": "Boba Fett", "D": "Din Djarin"}, "answer": "D"},
+        {"id": 7, "q": "What type of legume is used to make traditional soy sauce and tofu?", "options": {"A": "Navy bean", "B": "Soybean", "C": "Pinto bean", "D": "Mung bean"}, "answer": "B"},
+        {"id": 8, "q": "In Greek mythology, who is the king of the gods and ruler of Mount Olympus?", "options": {"A": "Hades", "B": "Poseidon", "C": "Apollo", "D": "Zeus"}, "answer": "D"},
+        {"id": 9, "q": "Which nut is used as the main base for making marzipan and traditional French macarons?", "options": {"A": "Almond", "B": "Pistachio", "C": "Hazelnut", "D": "Walnut"}, "answer": "A"},
+        {"id": 10, "q": "Which female aviator disappeared over the Pacific Ocean in 1937 while attempting to circumnavigate the globe?", "options": {"A": "Amelia Earhart", "B": "Bessie Coleman", "C": "Harriet Quimby", "D": "Jacqueline Cochran"}, "answer": "A"},
+        {"id": 11, "q": "What was Elvis Presley's famous Memphis estate called?", "options": {"A": "Neverland", "B": "Dollywood", "C": "Graceland", "D": "Paisley Park"}, "answer": "C"},
+        {"id": 12, "q": "What is a group of crows commonly called?", "options": {"A": "A pride", "B": "A parliament", "C": "A murder", "D": "A gaggle"}, "answer": "C"},
+        {"id": 13, "q": "Who was the first President of the United States?", "options": {"A": "John Adams", "B": "Benjamin Franklin", "C": "Thomas Jefferson", "D": "George Washington"}, "answer": "D"},
+        {"id": 14, "q": "What is the capital city of Spain?", "options": {"A": "Madrid", "B": "Barcelona", "C": "Seville", "D": "Valencia"}, "answer": "A"},
+        {"id": 15, "q": "Which female artist performed the Super Bowl LVII Halftime Show in 2023 while suspended on floating platforms?", "options": {"A": "Rihanna", "B": "Shakira", "C": "Beyonce", "D": "Lady Gaga"}, "answer": "A"},
+        {"id": 16, "q": "What is the SI unit of electrical resistance?", "options": {"A": "Volt", "B": "Watt", "C": "Ampere", "D": "Ohm"}, "answer": "D"},
+        {"id": 17, "q": "What is the rarest blood type in the human body?", "options": {"A": "A-positive", "B": "B-negative", "C": "AB-negative", "D": "O-negative"}, "answer": "C"},
+        {"id": 18, "q": "In the animated series 'The Simpsons', what is the name of the town where the family lives?", "options": {"A": "Quahog", "B": "South Park", "C": "Springfield", "D": "Shelbyville"}, "answer": "C"},
+        {"id": 19, "q": "What is the maximum possible score in a single game of ten-pin bowling?", "options": {"A": "250", "B": "200", "C": "350", "D": "300"}, "answer": "D"},
+        {"id": 20, "q": "What type of computer memory is volatile and loses its stored data when power is turned off?", "options": {"A": "ROM", "B": "Flash memory", "C": "RAM", "D": "SSD"}, "answer": "C"}
+    ]
+}

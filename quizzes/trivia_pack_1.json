@@ -1,0 +1,27 @@
+{
+    "id": "general_knowledge_1",
+    "title": "General Knowledge: Pack 1",
+    "description": "20 randomized questions spanning history, science, pop culture, geography, tech, and more.",
+    "questions": [
+        {"id": 1, "q": "Which country invented the sport of curling?", "options": {"A": "Scotland", "B": "Sweden", "C": "Canada", "D": "Norway"}, "answer": "A"},
+        {"id": 2, "q": "What does 'HTTP' stand for?", "options": {"A": "HyperText Transmission Protocol", "B": "HyperText Transfer Protocol", "C": "Hyperlink Text Transfer Protocol", "D": "High Transfer Text Process"}, "answer": "B"},
+        {"id": 3, "q": "In what year did the Berlin Wall fall?", "options": {"A": "1989", "B": "1987", "C": "1993", "D": "1991"}, "answer": "A"},
+        {"id": 4, "q": "In the OSI networking model, which layer is responsible for routing packets across networks using IP addresses?", "options": {"A": "Transport Layer (Layer 4)", "B": "Network Layer (Layer 3)", "C": "Data Link Layer (Layer 2)", "D": "Application Layer (Layer 7)"}, "answer": "B"},
+        {"id": 5, "q": "In Norse mythology, what is the name of Thor's hammer?", "options": {"A": "Gungnir", "B": "Gram", "C": "Mjolnir", "D": "Hofund"}, "answer": "C"},
+        {"id": 6, "q": "Which river is widely recognized as the longest in the world?", "options": {"A": "Mississippi River", "B": "Yangtze River", "C": "Nile River", "D": "Amazon River"}, "answer": "C"},
+        {"id": 7, "q": "Who invented the movable-type printing press in Europe around 1440?", "options": {"A": "Martin Luther", "B": "Johannes Gutenberg", "C": "Leonardo da Vinci", "D": "William Caxton"}, "answer": "B"},
+        {"id": 8, "q": "Which planet is known as the 'Red Planet'?", "options": {"A": "Jupiter", "B": "Venus", "C": "Mars", "D": "Saturn"}, "answer": "C"},
+        {"id": 9, "q": "Which NHL team has won the most Stanley Cup championships in history?", "options": {"A": "Boston Bruins", "B": "Detroit Red Wings", "C": "Montreal Canadiens", "D": "Toronto Maple Leafs"}, "answer": "C"},
+        {"id": 10, "q": "Which musical features the songs 'Defying Gravity' and 'Popular'?", "options": {"A": "Les Miserables", "B": "Hamilton", "C": "The Phantom of the Opera", "D": "Wicked"}, "answer": "D"},
+        {"id": 11, "q": "Who wrote 'To Kill a Mockingbird'?", "options": {"A": "Toni Morrison", "B": "Maya Angelou", "C": "Harper Lee", "D": "Truman Capote"}, "answer": "C"},
+        {"id": 12, "q": "What is the Japanese seasoning paste made from fermented soybeans used to make soup?", "options": {"A": "Mirin", "B": "Wasabi", "C": "Miso", "D": "Tamari"}, "answer": "C"},
+        {"id": 13, "q": "Which film won Best Picture at the 95th Academy Awards in 2023, starring Michelle Yeoh?", "options": {"A": "Everything Everywhere All at Once", "B": "Tar", "C": "The Fabelmans", "D": "The Banshees of Inisherin"}, "answer": "A"},
+        {"id": 14, "q": "What was the first feature-length animated movie ever released by Disney in 1937?", "options": {"A": "Cinderella", "B": "Bambi", "C": "Snow White and the Seven Dwarfs", "D": "Pinocchio"}, "answer": "C"},
+        {"id": 15, "q": "Which element has the chemical symbol 'O'?", "options": {"A": "Oxygen", "B": "Oganesson", "C": "Gold", "D": "Osmium"}, "answer": "A"},
+        {"id": 16, "q": "Which rock band released the iconic 1973 album 'The Dark Side of the Moon'?", "options": {"A": "The Rolling Stones", "B": "Pink Floyd", "C": "The Who", "D": "Led Zeppelin"}, "answer": "B"},
+        {"id": 17, "q": "What is the approximate speed of light in a vacuum?", "options": {"A": "150,000 km/s", "B": "450,000 km/s", "C": "300,000 km/s", "D": "600,000 km/s"}, "answer": "C"},
+        {"id": 18, "q": "What type of pastry is used to make a traditional French profiterole or eclair?", "options": {"A": "Filo pastry", "B": "Choux pastry", "C": "Shortcrust pastry", "D": "Puff pastry"}, "answer": "B"},
+        {"id": 19, "q": "What is the capital city of Australia?", "options": {"A": "Melbourne", "B": "Sydney", "C": "Brisbane", "D": "Canberra"}, "answer": "D"},
+        {"id": 20, "q": "What is the hardest naturally occurring mineral on the Mohs scale?", "options": {"A": "Quartz", "B": "Diamond", "C": "Topaz", "D": "Corundum"}, "answer": "B"}
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "id": "general_knowledge_10",
+    "title": "General Knowledge: Pack 10",
+    "description": "20 all-around trivia questions mixing computing, mythology, global cuisine, sports, and science.",
+    "questions": [
+        {"id": 1, "q": "Who wrote the tragedy 'Romeo and Juliet'?", "options": {"A": "Christopher Marlowe", "B": "Charles Dickens", "C": "William Shakespeare", "D": "John Milton"}, "answer": "C"},
+        {"id": 2, "q": "Which 1994 film features the quote 'Life is like a box of chocolates'?", "options": {"A": "Pulp Fiction", "B": "The Lion King", "C": "The Shawshank Redemption", "D": "Forrest Gump"}, "answer": "D"},
+        {"id": 3, "q": "What is the largest internal organ in the human body?", "options": {"A": "Heart", "B": "Liver", "C": "Kidney", "D": "Brain"}, "answer": "B"},
+        {"id": 4, "q": "Which country is the birthplace of pizza and pasta dishes such as carbonara?", "options": {"A": "France", "B": "Spain", "C": "Italy", "D": "Greece"}, "answer": "C"},
+        {"id": 5, "q": "In Egyptian mythology, which jackal-headed god is associated with mummification and the afterlife?", "options": {"A": "Horus", "B": "Ra", "C": "Anubis", "D": "Osiris"}, "answer": "C"},
+        {"id": 6, "q": "Which Swedish pop group won the 1974 Eurovision Song Contest with the song 'Waterloo'?", "options": {"A": "Ace of Base", "B": "Roxette", "C": "A-ha", "D": "ABBA"}, "answer": "D"},
+        {"id": 7, "q": "Which French military leader was defeated at the Battle of Waterloo in 1815?", "options": {"A": "Charles de Gaulle", "B": "Marquis de Lafayette", "C": "Louis XIV", "D": "Napoleon Bonaparte"}, "answer": "D"},
+        {"id": 8, "q": "How many keys are on a standard full-size piano?", "options": {"A": "88", "B": "84", "C": "76", "D": "92"}, "answer": "A"},
+        {"id": 9, "q": "What is the standard default TCP port for HTTPS traffic?", "options": {"A": "8080", "B": "443", "C": "80", "D": "22"}, "answer": "B"},
+        {"id": 10, "q": "Which artist is widely known as the 'King of Pop'?", "options": {"A": "Prince", "B": "Elvis Presley", "C": "Michael Jackson", "D": "Freddie Mercury"}, "answer": "C"},
+        {"id": 11, "q": "Which country has the most natural lakes in the world?", "options": {"A": "Russia", "B": "Canada", "C": "United States", "D": "Finland"}, "answer": "B"},
+        {"id": 12, "q": "What is the binary representation of the decimal number 10?", "options": {"A": "1010", "B": "1100", "C": "1001", "D": "1110"}, "answer": "A"},
+        {"id": 13, "q": "Which mammal is capable of true sustained flight?", "options": {"A": "Colugo", "B": "Bat", "C": "Sugar glider", "D": "Flying squirrel"}, "answer": "B"},
+        {"id": 14, "q": "What is the name of the fictional Indiana town where the series 'Stranger Things' takes place?", "options": {"A": "Pawnee", "B": "Riverdale", "C": "Sunnydale", "D": "Hawkins"}, "answer": "D"},
+        {"id": 15, "q": "In which year did World War II end?", "options": {"A": "1946", "B": "1944", "C": "1943", "D": "1945"}, "answer": "D"},
+        {"id": 16, "q": "What is the largest ocean on Earth?", "options": {"A": "Indian Ocean", "B": "Pacific Ocean", "C": "Atlantic Ocean", "D": "Arctic Ocean"}, "answer": "B"},
+        {"id": 17, "q": "Which country gifted the Statue of Liberty to the United States?", "options": {"A": "Spain", "B": "Italy", "C": "United Kingdom", "D": "France"}, "answer": "D"},
+        {"id": 18, "q": "What colored jacket is awarded to the winner of the Masters golf tournament?", "options": {"A": "Green", "B": "Blue", "C": "Gold", "D": "Red"}, "answer": "A"},
+        {"id": 19, "q": "In baseball, how many outs are there in one full inning (both halves combined)?", "options": {"A": "9", "B": "6", "C": "4", "D": "3"}, "answer": "B"},
+        {"id": 20, "q": "What is the primary ingredient in traditional Middle Eastern hummus?", "options": {"A": "Lentils", "B": "Soybeans", "C": "Black beans", "D": "Chickpeas"}, "answer": "D"}
+    ]
+}

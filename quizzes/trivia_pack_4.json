@@ -1,0 +1,27 @@
+{
+    "id": "general_knowledge_4",
+    "title": "General Knowledge: Pack 4",
+    "description": "20 assorted trivia questions blending geography, mythology, cinema, computing, and everyday facts.",
+    "questions": [
+        {"id": 1, "q": "What does 'JSON' stand for?", "options": {"A": "JavaScript Oriented Naming", "B": "Java Standard Object Network", "C": "Java Source Open Node", "D": "JavaScript Object Notation"}, "answer": "D"},
+        {"id": 2, "q": "Mount Kilimanjaro is located in which country?", "options": {"A": "Kenya", "B": "Uganda", "C": "Rwanda", "D": "Tanzania"}, "answer": "D"},
+        {"id": 3, "q": "What part of the plant conducts photosynthesis primarily?", "options": {"A": "Seed", "B": "Leaf", "C": "Stem", "D": "Root"}, "answer": "B"},
+        {"id": 4, "q": "In basketball, how many points is a free throw worth?", "options": {"A": "2", "B": "3", "C": "4", "D": "1"}, "answer": "D"},
+        {"id": 5, "q": "In Greek mythology, what creature had the body of a man and the head of a bull, dwelling in the Labyrinth of Crete?", "options": {"A": "Centaur", "B": "Hydra", "C": "Minotaur", "D": "Chimera"}, "answer": "C"},
+        {"id": 6, "q": "What was the code name for the Allied invasion of Normandy on June 6, 1944?", "options": {"A": "Operation Market Garden", "B": "Operation Torch", "C": "Operation Overlord", "D": "Operation Barbarossa"}, "answer": "C"},
+        {"id": 7, "q": "Which board game features properties such as Boardwalk and Park Place?", "options": {"A": "Clue", "B": "Monopoly", "C": "Risk", "D": "The Game of Life"}, "answer": "B"},
+        {"id": 8, "q": "Which empire was ruled by Genghis Khan?", "options": {"A": "Mongol Empire", "B": "Ottoman Empire", "C": "Persian Empire", "D": "Roman Empire"}, "answer": "A"},
+        {"id": 9, "q": "What is the famous rice dish of Spain cooked in a wide, shallow pan with saffron?", "options": {"A": "Tortilla", "B": "Gazpacho", "C": "Paella", "D": "Tapas"}, "answer": "C"},
+        {"id": 10, "q": "Who created the Linux operating system kernel in 1991?", "options": {"A": "Richard Stallman", "B": "Linus Torvalds", "C": "Ken Thompson", "D": "Dennis Ritchie"}, "answer": "B"},
+        {"id": 11, "q": "Who holds the men's world record for the 100-meter sprint at 9.58 seconds?", "options": {"A": "Carl Lewis", "B": "Usain Bolt", "C": "Tyson Gay", "D": "Yohan Blake"}, "answer": "B"},
+        {"id": 12, "q": "What is the main vegetable base of the most common variety of fermented Korean kimchi?", "options": {"A": "Radish greens", "B": "Bean sprouts", "C": "Bok choy", "D": "Napa cabbage"}, "answer": "D"},
+        {"id": 13, "q": "In the TV series 'Breaking Bad', what is Walter White's street alias?", "options": {"A": "Einstein", "B": "Oppenheimer", "C": "Heisenberg", "D": "Schrodinger"}, "answer": "C"},
+        {"id": 14, "q": "In 'The Matrix', which colored pill does Neo take to learn the truth about reality?", "options": {"A": "Red", "B": "Blue", "C": "Yellow", "D": "Green"}, "answer": "A"},
+        {"id": 15, "q": "Which country is the smallest in the world by land area?", "options": {"A": "San Marino", "B": "Nauru", "C": "Vatican City", "D": "Monaco"}, "answer": "C"},
+        {"id": 16, "q": "Which K-pop group released the English-language hit single 'Dynamite' in 2020?", "options": {"A": "Stray Kids", "B": "SEVENTEEN", "C": "EXO", "D": "BTS"}, "answer": "D"},
+        {"id": 17, "q": "What is the real first name of the rapper Eminem?", "options": {"A": "Shawn", "B": "Curtis", "C": "Marshall", "D": "Calvin"}, "answer": "C"},
+        {"id": 18, "q": "Which Spanish author wrote the classic novel 'Don Quixote'?", "options": {"A": "Jorge Luis Borges", "B": "Gabriel Garcia Marquez", "C": "Miguel de Cervantes", "D": "Federico Garcia Lorca"}, "answer": "C"},
+        {"id": 19, "q": "How many bones are in the typical adult human body?", "options": {"A": "216", "B": "206", "C": "196", "D": "256"}, "answer": "B"},
+        {"id": 20, "q": "In Texas Hold'em, what is the best possible starting hand?", "options": {"A": "Ace-King suited", "B": "Pocket Aces", "C": "Pocket Kings", "D": "Pocket Queens"}, "answer": "B"}
+    ]
+}

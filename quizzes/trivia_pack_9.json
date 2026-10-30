@@ -1,0 +1,27 @@
+{
+    "id": "general_knowledge_9",
+    "title": "General Knowledge: Pack 9",
+    "description": "20 randomized general trivia questions spanning biology, classic rock, cinema, and geography.",
+    "questions": [
+        {"id": 1, "q": "Who became the first Black President of South Africa in 1994?", "options": {"A": "Cyril Ramaphosa", "B": "Thabo Mbeki", "C": "Desmond Tutu", "D": "Nelson Mandela"}, "answer": "D"},
+        {"id": 2, "q": "Who wrote the Gothic novel 'Frankenstein; or, The Modern Prometheus'?", "options": {"A": "Bram Stoker", "B": "Edgar Allan Poe", "C": "Mary Shelley", "D": "Oscar Wilde"}, "answer": "C"},
+        {"id": 3, "q": "Which English city were The Beatles originally from?", "options": {"A": "London", "B": "Liverpool", "C": "Birmingham", "D": "Manchester"}, "answer": "B"},
+        {"id": 4, "q": "Which HTTP status code indicates 'Not Found'?", "options": {"A": "301", "B": "404", "C": "200", "D": "403"}, "answer": "B"},
+        {"id": 5, "q": "Who wrote the novel 'Pride and Prejudice', published in 1813?", "options": {"A": "Charlotte Bronte", "B": "Jane Austen", "C": "Emily Bronte", "D": "Mary Shelley"}, "answer": "B"},
+        {"id": 6, "q": "Which Japanese dish consists of vinegared rice combined with ingredients such as raw seafood and vegetables?", "options": {"A": "Tempura", "B": "Sushi", "C": "Ramen", "D": "Udon"}, "answer": "B"},
+        {"id": 7, "q": "What is the capital of Canada?", "options": {"A": "Ottawa", "B": "Toronto", "C": "Montreal", "D": "Vancouver"}, "answer": "A"},
+        {"id": 8, "q": "Who voiced the character of Woody in the 'Toy Story' franchise?", "options": {"A": "Tom Hanks", "B": "Tim Allen", "C": "Robin Williams", "D": "Billy Crystal"}, "answer": "A"},
+        {"id": 9, "q": "Which ancient civilization built the citadel of Machu Picchu?", "options": {"A": "Maya", "B": "Inca", "C": "Olmec", "D": "Aztec"}, "answer": "B"},
+        {"id": 10, "q": "What gives Earl Grey tea its distinctive citrus aroma and flavor?", "options": {"A": "Bergamot oil", "B": "Grapefruit oil", "C": "Lemon peel", "D": "Lime blossom"}, "answer": "A"},
+        {"id": 11, "q": "Which classical composer wrote the 'Fifth Symphony' and continued composing after becoming deaf?", "options": {"A": "Ludwig van Beethoven", "B": "Johann Sebastian Bach", "C": "Wolfgang Amadeus Mozart", "D": "Franz Schubert"}, "answer": "A"},
+        {"id": 12, "q": "At what temperature are the Celsius and Fahrenheit scales equal?", "options": {"A": "0 degrees", "B": "-40 degrees", "C": "-32 degrees", "D": "-273 degrees"}, "answer": "B"},
+        {"id": 13, "q": "In relational databases, what does 'SQL' stand for?", "options": {"A": "Standard Question Logic", "B": "Simple Query Language", "C": "System Query Layer", "D": "Structured Query Language"}, "answer": "D"},
+        {"id": 14, "q": "What is the tallest breed of dog in the world by average shoulder height?", "options": {"A": "Irish Wolfhound", "B": "Great Dane", "C": "English Mastiff", "D": "Saint Bernard"}, "answer": "A"},
+        {"id": 15, "q": "Which Grand Slam tennis tournament is played on clay courts?", "options": {"A": "Wimbledon", "B": "US Open", "C": "French Open", "D": "Australian Open"}, "answer": "C"},
+        {"id": 16, "q": "Which strait separates Europe from Africa at the entrance to the Mediterranean Sea?", "options": {"A": "Strait of Hormuz", "B": "Strait of Malacca", "C": "Bering Strait", "D": "Strait of Gibraltar"}, "answer": "D"},
+        {"id": 17, "q": "In 'Star Wars: The Empire Strikes Back', who reveals himself to be Luke Skywalker's father?", "options": {"A": "Obi-Wan Kenobi", "B": "Han Solo", "C": "Darth Vader", "D": "Emperor Palpatine"}, "answer": "C"},
+        {"id": 18, "q": "What is the capital of South Korea?", "options": {"A": "Seoul", "B": "Daegu", "C": "Incheon", "D": "Busan"}, "answer": "A"},
+        {"id": 19, "q": "Who formulated the laws of motion and universal gravitation?", "options": {"A": "Nikola Tesla", "B": "Galileo Galilei", "C": "Albert Einstein", "D": "Isaac Newton"}, "answer": "D"},
+        {"id": 20, "q": "Which country won the 2022 FIFA Men's World Cup in Qatar?", "options": {"A": "France", "B": "Croatia", "C": "Brazil", "D": "Argentina"}, "answer": "D"}
+    ]
+}
